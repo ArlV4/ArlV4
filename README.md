@@ -31,24 +31,27 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,astro,mysql" alt="Tech Stack 1" />
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,linux,figma,ps,ae" alt="Tech Stack 2" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,figma,ae" alt="Tech Stack 2" />
   </p>
 
   ---
 
-  <h3>📊 GitHub Stats</h3>
+<h3>📊 GitHub Stats</h3>
   <p>
-    <img src="https://streak-stats.demolab.com?user=ArlV4&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=ArlV4&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ArlV4&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=ArlV4&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   </p>
 
   ---
 
-  <h3>📈 Activity Graph</h3>
+<h3>📈 Activity Graph</h3>
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArlV4&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArlV4&theme=github-compact&hide_border=true" width="100%" alt="Activity Graph" />
   </p>
+
+  ---
+
 
 </div>
