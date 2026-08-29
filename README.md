@@ -1,16 +1,20 @@
-## Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArlV4&show_icons=true&theme=tokyonight)
 
-<!--
-**ArlV4/ArlV4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Isnain Ahmad Jauhari (Ril) 👋
 
-Here are some ideas to get you started:
+🚀 **Software Engineering Student | Web Developer & Creative Enthusiast** based in Magelang, Indonesia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on building functional, responsive web applications and combining code with creative visual design. Always exploring modern web tech stacks and UI/UX improvements.
+
+---
+
+### 🌐 Explore My Work
+- 🪐 **Personal Portfolio:** [space-portfolio-go-w.vercel.app](https://space-portfolio-go-w.vercel.app/)
+
+### 🛠️ Tech & Tools
+- **Web Development:** PHP, JavaScript, Astro, HTML5, CSS3, Tailwind CSS, MySQL
+- **Tools & Workflow:** Git, GitHub, Laragon, XAMPP, Linux / WSL
+- **Design & Media:** Figma, Canva, DaVinci Resolve, CapCut
+
+---
+📫 Let's connect & collaborate!
