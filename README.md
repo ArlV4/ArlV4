@@ -1,20 +1,54 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArlV4&show_icons=true&theme=tokyonight)
+<div align="center">
 
-# Hi there, I'm Isnain Ahmad Jauhari (Ril) 👋
+  <h1>Hi 👋, I'm Isnain Ahmad Jauhari (Ril)</h1>
+  <p><strong>Software Engineering Student | Web Developer & Creative Enthusiast</strong></p>
+  <p><em>Building responsive web apps and blending clean code with creative visuals.</em></p>
+  
+  <p>🌐 <a href="https://space-portfolio-go-w.vercel.app/"><strong>space-portfolio-go-w.vercel.app</strong></a></p>
 
-🚀 **Software Engineering Student | Web Developer & Creative Enthusiast** based in Magelang, Indonesia.
+  ---
 
-I focus on building functional, responsive web applications and combining code with creative visual design. Always exploring modern web tech stacks and UI/UX improvements.
+  <h3>🤝 Connect with me</h3>
+  <p>
+    <a href="https://github.com/ArlV4" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com/in/isnain-ahmad-j-494867367" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+    </a>
+    <a href="https://instagram.com/ryl_mii" target="_blank">
+      <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
+    </a>
+    <a href="mailto:isnainahmad005@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
+    </a>
+  </p>
 
----
+  ---
 
-### 🌐 Explore My Work
-- 🪐 **Personal Portfolio:** [space-portfolio-go-w.vercel.app](https://space-portfolio-go-w.vercel.app/)
+  <h3>💻 Tech Stack</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,astro,mysql" alt="Tech Stack 1" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,figma,ps,ae" alt="Tech Stack 2" />
+  </p>
 
-### 🛠️ Tech & Tools
-- **Web Development:** PHP, JavaScript, Astro, HTML5, CSS3, Tailwind CSS, MySQL
-- **Tools & Workflow:** Git, GitHub, Laragon, XAMPP, Linux / WSL
-- **Design & Media:** Figma, Canva, DaVinci Resolve, CapCut
+  ---
 
----
-📫 Let's connect & collaborate!
+  <h3>📊 GitHub Stats</h3>
+  <p>
+    <img src="https://streak-stats.demolab.com?user=ArlV4&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=ArlV4&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </p>
+
+  ---
+
+  <h3>📈 Activity Graph</h3>
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArlV4&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%" alt="Activity Graph" />
+  </p>
+
+</div>
