@@ -48,9 +48,8 @@
 
 <h3>📈 Activity Graph</h3>
   <p>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArlV4&theme=github-compact&hide_border=true" width="100%" alt="Activity Graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArlV4&theme=dark" width="100%" alt="Activity Summary" />
   </p>
-
   ---
 
 
