@@ -44,6 +44,11 @@
     <img src="https://github-readme-stats-fast.vercel.app/api?username=ArlV4&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   </p>
 
+<h3>🐍 Contribution Snake</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
   ---
 
 <h3>📈 Activity Graph</h3>
