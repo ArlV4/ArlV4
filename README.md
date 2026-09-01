@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi 👋, I'm Isnain Ahmad Jauhari (Ril)</h1>
+  <h1>Hi 👋, I'm Isnain Ahmad Jauharil </h1>
   <p><strong>Software Engineering Student | Web Developer & Creative Enthusiast</strong></p>
   <p><em>Building responsive web apps and blending clean code with creative visuals.</em></p>
   
