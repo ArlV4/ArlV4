@@ -8,7 +8,7 @@
 
   ---
 
-  <h3>🤝 Connect with me</h3>
+  <h3>📲 Connect with me</h3>
   <p>
     <a href="https://github.com/ArlV4" target="_blank">
       <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
@@ -55,7 +55,7 @@
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArlV4&theme=dark" width="100%" alt="Activity Summary" />
   </p>
-  _
+  ---
 
 
 </div>
