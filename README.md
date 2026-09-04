@@ -10,9 +10,6 @@
 
   <h3>📲 Connect with me</h3>
   <p>
-    <a href="https://github.com/ArlV4" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
-    </a>
     <a href="https://linkedin.com/in/isnain-ahmad-j-494867367" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
     </a>
