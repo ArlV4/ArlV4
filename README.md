@@ -35,9 +35,6 @@
 
 <h3>📊 GitHub Stats</h3>
   <p>
-    <img src="https://streak-stats.demolab.com?user=ArlV4&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-  </p>
-  <p>
     <img src="https://github-readme-stats-fast.vercel.app/api?username=ArlV4&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   </p>
 
